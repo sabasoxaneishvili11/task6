@@ -48,3 +48,45 @@ color: #27187F;
     height: 100%;
     border: none;
 }
+/* section */
+h2 {
+    margin-bottom: 68px;
+    font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 37px;
+color: #27187F;
+}
+.search img {
+    width: 39px;
+    height: 39px;
+}
+.search input {
+    height: 100%;
+    border: none;
+}
+section {
+    background-color: #DDEAF8;
+    padding: 94px 98px 135px 98px;
+
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 22px;
+}
+.card div {
+    padding: 33px 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 51px;
+}
+
+.card div p {
+    margin-top: 33px;
+    font-size: 20px;
+}
+
