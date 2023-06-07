@@ -1,6 +1,6 @@
 .conteiner {
     max-width: 1440px;
-    width: 100px;
+    width: 100%;
     margin: auto;
 }
 /* header */
@@ -89,4 +89,48 @@ section {
     margin-top: 33px;
     font-size: 20px;
 }
+/* footer */
+footer {
+    background-color: #758BFD;
+    width: 1440px;
+    padding: 75px 104px 75px 98px;
+}
+h3 {
+    font-family: 'Century Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 17px;
+color: 
+#00CAD7;
+}
+h4 {
+    font-family: 'Century Gothic';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+color: white;
+}
+.footer_div {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 23px; */
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+}
+.right img { 
+    margin-left: 10px;
+    
+}
+.social_media {
+   display: flex;
+   gap: 20px;
+   margin-top: 22px;
 
+
+}
+/* ძაან ვჩქარობდი და ბევრ რამეს არ მაქ ყურადყება მიქცეული  */
